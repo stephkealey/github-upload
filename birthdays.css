@@ -1,0 +1,37 @@
+html {
+    background-color: #aaaaaa;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 1em;
+    width: 670px;
+    border: 8px solid black;
+    padding: 0 2em 1em;
+}
+h1 {
+    color: #6b6b6b;
+    margin-bottom: .5em;
+    text-align: center
+}
+label {
+    float: left;
+    width: 11em;
+    text-align: right;
+}
+input {
+    margin-bottom: .5em;
+}
+input[text]{
+    border-style: groove;
+}
+table {
+    margin: auto;
+}
+#output {
+    border-color: blue;
+}
+#calculate {
+    border-color: blue;
+}
